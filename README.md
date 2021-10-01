@@ -1,3 +1,3 @@
 # interdiciplina
 interdiciplina
-Link:https://gruposinterdisciplina.github.io/interdiciplina/
+Link:https://gruposinterdisciplina.github.io/VKS/
